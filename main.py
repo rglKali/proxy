@@ -49,4 +49,4 @@ def get_free_proxies():
 
 
 list = get_free_proxies()
-print('Check the file "list" to see all the avialable proxies')
+print('Check the file "list" to see all the available proxies')
