@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../WallPaperCave/.idea/WallPaperCave.iml" filepath="$PROJECT_DIR$/../WallPaperCave/.idea/WallPaperCave.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/proxy.iml" filepath="$PROJECT_DIR$/.idea/proxy.iml" />
     </modules>
   </component>
